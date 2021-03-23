@@ -1,6 +1,8 @@
-# leaflet-maps-open-data-apis - Demo at https://tourdetravoy.github.io/leaflet-map-open-data-api/.
+# leaflet-maps-open-data-apis - 
 
-Leaflet map with multiple API data feeds Socrata and Esri ArcGIS Online. View [demo](https://handsondataviz.github.io/leaflet-maps-open-data-apis/index.html). 
+Leaflet map with multiple API data feeds Socrata and Esri ArcGIS Online.
+
+Demo at https://tourdetravoy.github.io/leaflet-map-open-data-api/.
 
 ![Screenshot](images/screenshot.png)
 
